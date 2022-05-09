@@ -5,8 +5,8 @@ let usuarioAtivo = true;
 if (usuarioAtivo) {
     usuarioAtivo = 'Usuário está ativo.';
 } else {
-    usuarioAtivo = 'Usuário não está ativo.'
-}
+    usuarioAtivo = 'Usuário não está ativo.';
+};
 
 console.log(nome);
 console.log(idade);
