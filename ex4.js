@@ -6,10 +6,10 @@ let plano = false;
 let imc = peso / (altura * altura);
 
 if (plano == true) {
-    plano = 'Possui plano.'
+    plano = 'Possui plano.';
 } else {
-    plano = 'Não possui plano.'
-}
+    plano = 'Não possui plano.';
+};
 
 console.log(cliente1 + ' tem ' + idade + ' anos e seu índice de massa corporal é de ' + imc.toFixed(2) + '. ' + plano);
 
@@ -21,10 +21,10 @@ plano = true;
 imc = peso / (altura * altura);
 
 if (plano == true) {
-    plano = 'Possui plano.'
+    plano = 'Possui plano.';
 } else {
-    plano = 'Não possui plano.'
-}
+    plano = 'Não possui plano.';
+};
 
 console.log(cliente2 + ' tem ' + idade + ' anos e seu índice de massa corporal é de ' + imc.toFixed(2) + '. ' + plano);
 
@@ -36,10 +36,10 @@ plano = true;
 imc = peso / (altura * altura);
 
 if (plano == true) {
-    plano = 'Possui plano.'
+    plano = 'Possui plano.';
 } else {
-    plano = 'Não possui plano.'
-}
+    plano = 'Não possui plano.';
+};
 
 console.log(cliente3 + ' tem ' + idade + ' anos e seu índice de massa corporal é de ' + imc.toFixed(2) + '. ' + plano);
 
@@ -51,9 +51,9 @@ plano = true;
 imc = peso / (altura * altura);
 
 if (plano == true) {
-    plano = 'Possui plano.'
+    plano = 'Possui plano.';
 } else {
-    plano = 'Não possui plano.'
-}
+    plano = 'Não possui plano.';
+};
 
 console.log(cliente4 + ' tem ' + idade + ' anos e seu índice de massa corporal é de ' + imc.toFixed(2) + '. ' + plano);
